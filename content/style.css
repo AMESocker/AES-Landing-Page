@@ -1,0 +1,18 @@
+h1 {
+    color: blue;
+    font-family: Georga;
+    
+}
+header {
+    font-size: larger;
+    position: center;
+    top: 0;
+    z-index: 2;
+    background-color: rgb(193, 193, 72);
+    width: 100%;
+    
+}
+body {
+    background-color: rgb(127, 146, 127);
+    font-family: Georga;
+}
